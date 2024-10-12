@@ -46,6 +46,7 @@ ul.sub-menu {
 
 .main-menu ul li:hover .sub-menu {
     display: block;
+    width: max-content;
 }
 
 ul.sub-menu {
